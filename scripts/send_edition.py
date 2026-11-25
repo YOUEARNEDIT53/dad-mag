@@ -50,9 +50,13 @@ def load_env():
 
 
 def get_latest_edition():
-    """Find the most recent edition file."""
+    """Find the most recently written edition file.
+
+    By modification time, not name: old one-offs like edition_011b_..._about.md sort after
+    new numbers, and the cloud job's state pull leaves past editions older than the new one.
+    """
     pattern = os.path.join(EDITIONS_DIR, 'edition_*.md')
-    files = sorted(glob.glob(pattern))
+    files = sorted(glob.glob(pattern), key=os.path.getmtime)
     if not files:
         print("ERROR: No editions found in editions/")
         sys.exit(1)
