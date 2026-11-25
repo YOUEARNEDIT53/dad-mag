@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Dad Mag - 59 Source Health &amp; Fitness Feed List</title>
+    <dateCreated>2026-02-08</dateCreated>
+  </head>
+  <body>
+    <!-- CLUSTER 1: Clinical Core - Journals & Medical Research (15) -->
+    <outline text="Clinical Core" category="clinical">
+      <outline text="Nature Medicine" xmlUrl="https://www.nature.com/nm.rss" category="clinical"/>
+      <outline text="NEJM" xmlUrl="https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss" category="clinical"/>
+      <outline text="The Lancet" xmlUrl="https://www.thelancet.com/rssfeed/lancet_current.xml" category="clinical"/>
+      <outline text="JAMA Network" xmlUrl="https://jamanetwork.com/rss/site_3/67.xml" category="clinical"/>
+      <outline text="ScienceDaily Health" xmlUrl="https://www.sciencedaily.com/rss/health_medicine.xml" category="clinical"/>
+      <outline text="British Journal of Sports Medicine" xmlUrl="https://bjsm.bmj.com/rss/current.xml" category="clinical"/>
+      <outline text="Cell Reports Medicine" xmlUrl="https://www.cell.com/cell-reports-medicine/rss" category="clinical"/>
+      <outline text="STAT News" xmlUrl="https://www.statnews.com/feed/" category="clinical"/>
+      <outline text="Science Magazine" xmlUrl="https://www.science.org/rss/news_current.xml" category="clinical"/>
+      <outline text="Frontiers in Physiology" xmlUrl="https://www.frontiersin.org/journals/physiology/rss" category="clinical"/>
+      <outline text="PubMed Exercise Science" xmlUrl="https://pubmed.ncbi.nlm.nih.gov/rss/search/1k0gKJFxMM-qP_qxSuETj2h4JaBPoFlUFh-L82ATVH5pAGSr_q/?limit=15&amp;utm_campaign=pubmed-2&amp;fc=20200101000000" category="clinical"/>
+      <outline text="Nutrients Journal" xmlUrl="https://www.mdpi.com/rss/journal/nutrients" category="clinical"/>
+      <outline text="Sports Medicine" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=40279&amp;channel-name=Sports+Medicine" category="clinical"/>
+      <outline text="New Scientist Health" xmlUrl="https://www.newscientist.com/subject/health/feed/" category="clinical"/>
+      <outline text="Live Science Health" xmlUrl="https://www.livescience.com/feeds/health" category="clinical"/>
+    </outline>
+
+    <!-- CLUSTER 2: Performance Lab - Strength, Training & Outdoors (14) -->
+    <outline text="Performance Lab" category="performance">
+      <outline text="BarBend" xmlUrl="https://barbend.com/feed/" category="performance"/>
+      <outline text="Breaking Muscle" xmlUrl="https://breakingmuscle.com/feed/" category="performance"/>
+      <outline text="Outside Online" xmlUrl="https://www.outsideonline.com/feed/" category="performance"/>
+      <outline text="Mens Health" xmlUrl="https://www.menshealth.com/rss/all.xml/" category="performance"/>
+      <outline text="Stronger By Science" xmlUrl="https://www.strongerbyscience.com/feed/" category="performance"/>
+      <outline text="T-Nation" xmlUrl="https://www.t-nation.com/feed/" category="performance"/>
+      <outline text="Precision Nutrition" xmlUrl="https://www.precisionnutrition.com/feed" category="performance"/>
+      <outline text="Examine.com" xmlUrl="https://examine.com/feed/" category="performance"/>
+      <outline text="Popular Mechanics Fitness" xmlUrl="https://www.popularmechanics.com/rss/" category="performance"/>
+      <outline text="GQ Fitness" xmlUrl="https://www.gq.com/feed/rss" category="performance"/>
+      <outline text="Runner's World" xmlUrl="https://www.runnersworld.com/rss/all.xml/" category="performance"/>
+      <outline text="Bicycling" xmlUrl="https://www.bicycling.com/rss/all.xml/" category="performance"/>
+      <outline text="Swimming World" xmlUrl="https://www.swimmingworldmagazine.com/news/feed/" category="performance"/>
+      <outline text="Stack" xmlUrl="https://www.stack.com/feed/" category="performance"/>
+    </outline>
+
+    <!-- CLUSTER 3: Tech & Bio-Hacking (15) -->
+    <outline text="Tech &amp; Bio-Hacking" category="biohack">
+      <outline text="Wired Health" xmlUrl="https://www.wired.com/feed/category/science/health/rss" category="biohack"/>
+      <outline text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" category="biohack"/>
+      <outline text="Ars Technica Health" xmlUrl="https://feeds.arstechnica.com/arstechnica/science" category="biohack"/>
+      <outline text="The Verge Health" xmlUrl="https://www.theverge.com/rss/health/index.xml" category="biohack"/>
+      <outline text="IEEE Spectrum" xmlUrl="https://spectrum.ieee.org/feeds/feed.rss" category="biohack"/>
+      <outline text="Quantified Self" xmlUrl="https://quantifiedself.com/feed/" category="biohack"/>
+      <outline text="BioSpace" xmlUrl="https://www.biospace.com/rss/" category="biohack"/>
+      <outline text="Fierce Biotech" xmlUrl="https://www.fiercebiotech.com/rss/xml" category="biohack"/>
+      <outline text="Digital Trends Health" xmlUrl="https://www.digitaltrends.com/health-fitness/feed/" category="biohack"/>
+      <outline text="TechCrunch Health" xmlUrl="https://techcrunch.com/tag/health/feed/" category="biohack"/>
+      <outline text="Hacker News" xmlUrl="https://hnrss.org/frontpage" category="biohack"/>
+      <outline text="Peter Attia" xmlUrl="https://peterattiamd.com/feed/" category="biohack"/>
+      <outline text="Huberman Lab" xmlUrl="https://hubermanlab.com/feed/" category="biohack"/>
+      <outline text="Found My Fitness" xmlUrl="https://www.foundmyfitness.com/rss" category="biohack"/>
+      <outline text="Ben Greenfield" xmlUrl="https://bengreenfieldlife.com/feed/" category="biohack"/>
+    </outline>
+
+    <!-- CLUSTER 4: Trends & Culture (15) -->
+    <outline text="Trends &amp; Culture" category="trends">
+      <outline text="Well+Good" xmlUrl="https://www.wellandgood.com/feed/" category="trends"/>
+      <outline text="Self Magazine" xmlUrl="https://www.self.com/feed/rss" category="trends"/>
+      <outline text="Healthline" xmlUrl="https://www.healthline.com/rss" category="trends"/>
+      <outline text="Verywell Fit" xmlUrl="https://www.verywellfit.com/rss" category="trends"/>
+      <outline text="Shape" xmlUrl="https://www.shape.com/rss" category="trends"/>
+      <outline text="Eat This Not That" xmlUrl="https://www.eatthis.com/feed/" category="trends"/>
+      <outline text="Bon Appetit" xmlUrl="https://www.bonappetit.com/feed/rss" category="trends"/>
+      <outline text="Serious Eats" xmlUrl="https://www.seriouseats.com/feeds/serious-eats" category="trends"/>
+      <outline text="Smithsonian Health" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" category="trends"/>
+      <outline text="The Atlantic Health" xmlUrl="https://www.theatlantic.com/feed/channel/health/" category="trends"/>
+      <outline text="Longreads" xmlUrl="https://longreads.com/feed/" category="trends"/>
+      <outline text="Big Think" xmlUrl="https://bigthink.com/feed/" category="trends"/>
+      <outline text="Nautilus" xmlUrl="https://nautil.us/feed/" category="trends"/>
+      <outline text="The Conversation Health" xmlUrl="https://theconversation.com/us/health/articles.atom" category="trends"/>
+      <outline text="Psychology Today" xmlUrl="https://www.psychologytoday.com/us/blog/feed" category="trends"/>
+    </outline>
+  </body>
+</opml>

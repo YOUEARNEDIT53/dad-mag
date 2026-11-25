@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+logs/
+*.bak*
+
+# Run state lives in the Supabase bucket (scripts/state_sync.py), not git
+editions/
+distro/
+used_stories.json
+used_topics.json
+weekly_digest.json
