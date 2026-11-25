@@ -5,6 +5,7 @@ Dad Mag — sync run state with a private Supabase Storage bucket.
 The Render cron job starts on a blank disk every week, so the files that carry
 over between editions live in the bucket:
   used_stories.json, used_topics.json   (no-repeat history)
+  last_special.json                     (date of last holiday special)
   distro/subscribers.json               (audience; kept out of git)
   editions/*.md                         (archive + edition numbering)
 
@@ -22,7 +23,7 @@ import sys
 import requests
 
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATE_FILES = ['used_stories.json', 'used_topics.json', 'distro/subscribers.json']
+STATE_FILES = ['used_stories.json', 'used_topics.json', 'last_special.json', 'distro/subscribers.json']
 
 
 def config():

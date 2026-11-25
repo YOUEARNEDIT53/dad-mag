@@ -1,0 +1,3 @@
+# Dad Mag Sunday Edition - auto-generates every Sunday at 6 AM
+0 6 * * 0 /home/eng/dad-mag/scripts/sunday_cron.sh
+*/30 * * * * /home/eng/omni-status-notify.sh

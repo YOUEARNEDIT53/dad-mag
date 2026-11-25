@@ -5,7 +5,8 @@ RUN pip install --no-cache-dir \
     anthropic==0.77.0 \
     feedparser==6.0.12 \
     requests==2.32.5 \
-    resend==2.21.0
+    resend==2.21.0 \
+    tzdata==2025.3
 
 WORKDIR /app
 COPY . .
